@@ -1,6 +1,6 @@
 
 
-# Ion-trap Tomography Stimulation
+# Ion-trap Tomography Simulation (without experiment data)
 tomo.py: general API for tomography
 
 choose one from two:\
